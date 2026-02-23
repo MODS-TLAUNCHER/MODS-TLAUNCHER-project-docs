@@ -13,3 +13,10 @@ Necesito mejorar la comunicación con el equipo ya sea para pedir ayuda o opinio
 Deseo ser quien se encarge de profundizar la arquitectura y diseño de la aplicación, tambien deseo ser parte del equipo de front-end.
 
 Actualmente cuento con las fortalezas de haber trabajado en equipos profesionales como estudiante auxiliar y como desarrollador independiente en prestación de servicios, lo cual me da la experiencia en organización de equipos y diseño de software, mi rol principal se da en el desarrollo de experiencias interactivas en XR, tambien tengo experiencia como Game Designer, programador y artista VFX, mi plataforma principal es unity, lo cual me da experiencia en proyecto de mediano plazo, cerca de 6 meses.
+
+### Omar Andres Quiñones Mejia
+
+Como estudiante de Ingeniería en Sistemas y Computación, me interesa asumir un rol más técnico dentro del equipo, enfocado principalmente en el desarrollo backend y en la estructuración lógica del proyecto. Me gustaría aportar en la organización del código, definición de la estructura del sistema y apoyo en la integración de las distintas partes desarrolladas por el equipo.
+
+Considero que una de mis principales fortalezas es mi capacidad para analizar problemas y encontrar soluciones eficientes. Me siento cómodo trabajando con lógica de programación, depuración de errores y control de versiones utilizando Git. Además, soy constante con las tareas asignadas y procuro mantener el código ordenado y funcional.
+
