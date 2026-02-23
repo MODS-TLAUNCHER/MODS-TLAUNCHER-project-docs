@@ -18,5 +18,7 @@ Actualmente cuento con las fortalezas de haber trabajado en equipos profesionale
 
 Como estudiante de Ingeniería en Sistemas y Computación, me interesa asumir un rol más técnico dentro del equipo, enfocado principalmente en el desarrollo backend y en la estructuración lógica del proyecto. Me gustaría aportar en la organización del código, definición de la estructura del sistema y apoyo en la integración de las distintas partes desarrolladas por el equipo.
 
-Considero que una de mis principales fortalezas es mi capacidad para analizar problemas y encontrar soluciones eficientes. Me siento cómodo trabajando con lógica de programación, depuración de errores y control de versiones utilizando Git. Además, soy constante con las tareas asignadas y procuro mantener el código ordenado y funcional.
+Considero que una de mis principales fortalezas es mi capacidad para analizar problemas y encontrar soluciones eficientes. Me siento cómodo trabajando con lógica de programación, depuración de errores y control de versiones utilizando Git. 
+
+Debo seguir mejorando en la comunicación dentro del equipo, También quiero fortalecer mis habilidades en documentación y pruebas más estructuradas para aportar aún más calidad al proyecto.
 
