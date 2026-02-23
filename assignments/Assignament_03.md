@@ -22,3 +22,8 @@ Considero que una de mis principales fortalezas es mi capacidad para analizar pr
 
 Debo seguir mejorando en la comunicación dentro del equipo, También quiero fortalecer mis habilidades en documentación y pruebas más estructuradas para aportar aún más calidad al proyecto.
 
+
+
+## Apartado 2
+
+Como grupo nos comprometemos a usar la metodologia kanban para la organización del proyecto y la delegación de tareas, nos reuniremos cada fin de semana, usaremos el git de manera responsable, subiendo solamente ramas nuevas con el contenido nuevo que luego será mergeado con la rama main despúes de la resolución de conflictos, cualquier uso fuera de este mecanísmo se evitará, cualquier cambio a lo estipulado se hablará en grupo y se tomará una desición al respecto, si llega a ver un inconveniente con el cumplimiento de los responsabilidades, se volverá a repartir responsabilidades teniendo en cuenta la situación.
