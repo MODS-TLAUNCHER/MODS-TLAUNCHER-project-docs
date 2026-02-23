@@ -22,7 +22,11 @@ Considero que una de mis principales fortalezas es mi capacidad para analizar pr
 
 Debo seguir mejorando en la comunicación dentro del equipo, También quiero fortalecer mis habilidades en documentación y pruebas más estructuradas para aportar aún más calidad al proyecto.
 
+### Jaime Javier Andres Quiñones Segura
 
+Me gustaría asumir un rol orientado a arquitectura y diseño del sistema, participando en decisiones técnicas y asegurando que el software tenga una estructura clara, organizada y escalable.
+
+como fortalezas tengo buena capacidad de análisis, disposición para trabajar en equipo, Capacidad para escuchar opiniones y aceptar críticas constructivas y También tengo interés constante por aprender y mejorar mis habilidades técnicas para asi poder aportar mas al desarrollo de este proyecto.
 
 ## Apartado 2
 
